@@ -1,1 +1,1 @@
-A simple cybersecurity projects that is inspired to be ransomware. It is coded in C++ entirely. It encrypts a targets files and a exchange of a key, it decrypts them.
+A simple cybersecurity project that is inspired to be a basic ransomware. It is coded in C++ entirely. It encrypts a target text files in a specific directory in exchange of a randomly generated key. The files get decrypted when the key is entered
